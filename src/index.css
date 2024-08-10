@@ -1,0 +1,11 @@
+/* button style code */
+button{
+  width: 60px;
+}
+.submit-btn{
+  width: 80px;
+}
+/* table overflow handle css */
+.userList{
+  overflow: auto;
+}
